@@ -3,10 +3,13 @@ minitest-suite_callbacks
 
 `before_suite` and `after_suite` callbacks for Minitest
 
+## Installation
+```sh
+gem install 'minitest-suite_callbacks'
+```
+
 ## Usage
 ```rb
-gem install 'minitest-suite_callbacks'
-
 # in test_helper.rb
 Minitest::Spec.extend(Minitest::SuiteCallbacks)
 
