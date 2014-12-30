@@ -7,6 +7,6 @@ Gem::Specification.new do |s|
   s.authors     = ["backupify"]
   s.email       = 'jb3689@yahoo.com'
   s.files       = ["lib/minitest/suite_callbacks.rb"]
-  s.homepage    = 'http://rubygems.org/gems/hola'
+  s.homepage    = 'https://github.com/backupify/minitest-suite_callbacks'
   s.license     = 'MIT'
 end
