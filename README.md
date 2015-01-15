@@ -28,9 +28,9 @@ end
 ```
 
 ## TODO
-* doesn't work when there's a base level before_suite and describes
 * generate fields filtered out of sandbox
 * how does it interact with factory girl?
 * best practices docs (db cleaner etc)
 * general refactoring
 * does it work with multiple before_suites?
+* allow for multiple callbacks; separate code into classes; only one sandbox
