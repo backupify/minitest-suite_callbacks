@@ -2,6 +2,7 @@ minitest-suite_callbacks
 ========================
 [![Build Status](https://travis-ci.org/backupify/minitest-suite_callbacks.svg)](https://travis-ci.org/backupify/minitest-suite_callbacks)
 [![Coverage Status](https://coveralls.io/repos/backupify/minitest-suite_callbacks/badge.png)](https://coveralls.io/r/backupify/minitest-suite_callbacks)
+[![Code Climate](https://codeclimate.com/github/backupify/minitest-suite_callbacks/badges/gpa.svg)](https://codeclimate.com/github/backupify/minitest-suite_callbacks)
 
 `before_suite` and `after_suite` callbacks for Minitest
 
